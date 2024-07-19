@@ -7,7 +7,7 @@
 //
 
 #import "DNGRViewController.h"
-
+#import <ImageCoreEngineMagic/Header.h>
 @interface DNGRViewController ()
 
 @end

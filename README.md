@@ -17,7 +17,7 @@ ImageCoreEngineMagic is available through [CocoaPods](https://cocoapods.org). To
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'ImageCoreEngineMagic'
+pod 'GTRPImageCoreEngineTool',:git => 'https://github.com/DarknessDragonborn/ImageCoreEngineMagic.git' 
 ```
 
 ## Author
