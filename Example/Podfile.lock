@@ -1,0 +1,16 @@
+PODS:
+  - ImageCoreEngineMagic (0.1.0)
+
+DEPENDENCIES:
+  - ImageCoreEngineMagic (from `../`)
+
+EXTERNAL SOURCES:
+  ImageCoreEngineMagic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ImageCoreEngineMagic: 49b4891bf22514eaf29f64d7dfefdd3fa515535e
+
+PODFILE CHECKSUM: 456cc8efc636636899ac47cd701e435a356a2256
+
+COCOAPODS: 1.15.2

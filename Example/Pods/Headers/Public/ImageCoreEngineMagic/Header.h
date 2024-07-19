@@ -1,0 +1,1 @@
+../../../../../ImageCoreEngineMagic/Classes/Header.h

@@ -1,0 +1,6 @@
+framework module ImageCoreEngineMagic {
+  umbrella header "ImageCoreEngineMagic-umbrella.h"
+
+  export *
+  module * { export * }
+}
