@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ImageCoreEngineMagic'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A image handle tool.'
 
 # This description is used to generate tags and improve search results.
@@ -31,6 +31,10 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '12.0'
 
   s.source_files = 'ImageCoreEngineMagic/Classes/*.h'
+  s.resource_bundles = {
+    'ImageCoreEngineMagic' => ['ImageCoreEngineMagic/Assets/*.bundle']
+  }
+  s.ios.vendored_frameworks = 'ImageCoreEngineMagic/Frameworks/*.framework'
   
   # s.resource_bundles = {
   #   'ImageCoreEngineMagic' => ['ImageCoreEngineMagic/Assets/*.png']

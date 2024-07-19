@@ -15,6 +15,7 @@
 			dependencies = (
 			);
 			name = ImageCoreEngineMagic;
+			productName = ImageCoreEngineMagic;
 		};
 /* End PBXAggregateTarget section */
 
@@ -53,19 +54,19 @@
 		69D507862AAFA31FD48F2A9C55B6AAF2 /* Pods-ImageCoreEngineMagic_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ImageCoreEngineMagic_Example-dummy.m"; sourceTree = "<group>"; };
 		6E40D7BEBCBD1339C3A1C47AC11C67D7 /* Pods-ImageCoreEngineMagic_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ImageCoreEngineMagic_Example-Info.plist"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		7589A3420A8EEE845014FBFAFEFD8F23 /* ImageCoreEngineMagic.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ImageCoreEngineMagic.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		7589A3420A8EEE845014FBFAFEFD8F23 /* ImageCoreEngineMagic.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ImageCoreEngineMagic.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		78E1B0CC3444F21BC1E220D809B0C105 /* Pods-ImageCoreEngineMagic_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ImageCoreEngineMagic_Tests-umbrella.h"; sourceTree = "<group>"; };
 		7B4D252F1F8FD9EEF8A4E3DADD019BAA /* Pods-ImageCoreEngineMagic_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ImageCoreEngineMagic_Tests-dummy.m"; sourceTree = "<group>"; };
 		9CE969A0867F9D43636AF147AA640E5F /* ImageCoreEngineMagic.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ImageCoreEngineMagic.debug.xcconfig; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A04EB15B8EB102DDC343313CD67897D4 /* Pods-ImageCoreEngineMagic_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ImageCoreEngineMagic_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A3C3F4160DD3F34AC9A33988BD4DE7DB /* Pods-ImageCoreEngineMagic_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ImageCoreEngineMagic_Example-umbrella.h"; sourceTree = "<group>"; };
 		AC42D9EA570AB647E2B60059D0DC015C /* Pods-ImageCoreEngineMagic_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ImageCoreEngineMagic_Example.modulemap"; sourceTree = "<group>"; };
-		AE6C29102A535C799AC412658475C62B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		AE6C29102A535C799AC412658475C62B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B1AE4FEA8B5BEB17A119385DD6A6AE30 /* Pods-ImageCoreEngineMagic_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ImageCoreEngineMagic_Example.release.xcconfig"; sourceTree = "<group>"; };
 		B6464F4A6A7019FCF52B5242959B2FBC /* Pods-ImageCoreEngineMagic_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ImageCoreEngineMagic_Tests"; path = Pods_ImageCoreEngineMagic_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6B7203366F8B3DFD9C278FB716BE99D /* Pods-ImageCoreEngineMagic_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ImageCoreEngineMagic_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		B87E9694AEFB3A91DB2BDAA0A954AA22 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		B87E9694AEFB3A91DB2BDAA0A954AA22 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B9CDBB17D956DEA3E77C6F176D0072E5 /* Pods-ImageCoreEngineMagic_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ImageCoreEngineMagic_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		C543E9779E7F94A4DFE0E2B1CA0C6A78 /* ImageCoreEngineMagic.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ImageCoreEngineMagic.release.xcconfig; sourceTree = "<group>"; };
 		D46A0D5660B98DC27622A5A0A2A2510B /* Pods-ImageCoreEngineMagic_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ImageCoreEngineMagic_Tests.modulemap"; sourceTree = "<group>"; };
@@ -486,8 +487,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
