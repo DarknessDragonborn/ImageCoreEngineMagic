@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		023940DD5C8FCAF2620E741E /* ImageCoreEngineMagic.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ImageCoreEngineMagic.podspec; path = ../ImageCoreEngineMagic.podspec; sourceTree = "<group>"; };
+		023940DD5C8FCAF2620E741E /* ImageCoreEngineMagic.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ImageCoreEngineMagic.podspec; path = ../ImageCoreEngineMagic.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3DCED7C7C1A6BF62C47F0DB3 /* Pods-ImageCoreEngineMagic_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageCoreEngineMagic_Example.release.xcconfig"; path = "Target Support Files/Pods-ImageCoreEngineMagic_Example/Pods-ImageCoreEngineMagic_Example.release.xcconfig"; sourceTree = "<group>"; };
 		3F42870A41E9741F3FD977B5 /* Pods_ImageCoreEngineMagic_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ImageCoreEngineMagic_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* ImageCoreEngineMagic_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageCoreEngineMagic_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };

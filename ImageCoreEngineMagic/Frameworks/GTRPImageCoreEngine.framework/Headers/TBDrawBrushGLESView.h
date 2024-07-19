@@ -2,8 +2,8 @@
 //  TBDrawBrushGLESView.h
 //  ESImageCoreEngine
 //
-//  Created by Ghost Reaper on 6/5/2024.
-//  Copyright © 2024 Ghost Reaper. All rights reserved.
+//  Created by Hlathguth Valkyrie on 6/5/2024.
+//  Copyright © 2024 Hlathguth Valkyrie. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
