@@ -9,10 +9,6 @@ uniform mat4 projectionMatrix;
 //模型视图矩阵
 uniform mat4 modelViewMatrix;
 
-//顶点颜色的数组
-//attribute vec4 displayPositionColor;
-//传递的顶点颜色数组
-//varying lowp vec4 varyColor;
 //传递的纹理坐标
 varying highp vec2 varyTextureCoord;
 //[顶点着色器]的核心函数

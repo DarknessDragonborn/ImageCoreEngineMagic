@@ -10,7 +10,6 @@ varying lowp vec4 varyColor;
 //[顶点着色器]的核心函数
 void main(){
     //顶点计算
-//    gl_Position = mvp * drawShaderVertex;
     gl_Position = drawShaderVertex;
     //设置各个顶点的大小
     gl_PointSize = pointSize;

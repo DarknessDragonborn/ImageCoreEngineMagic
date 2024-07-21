@@ -14,7 +14,6 @@ FOUNDATION_EXPORT double ESImageCoreEngineVersionNumber;
 //! Project version string for TSImageCoreEngine.
 FOUNDATION_EXPORT const unsigned char ESImageCoreEngineVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <TSImageCoreEngine/TSPublicHeader.h>
 //公共算法工具
 #import <GTRPImageCoreEngine/ESMathTool.h>
 #import <GTRPImageCoreEngine/GTRPImageHandle.h>
