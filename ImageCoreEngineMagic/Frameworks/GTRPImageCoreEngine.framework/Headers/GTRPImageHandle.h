@@ -2,7 +2,7 @@
 //  GTRPImageHandle.h
 //  GTRPImageCoreEngine
 //
-//  Created by Hlathguth Valkyrie on 15/7/2024.
+//  Created by Hlathguth Valkyrie on 27/6/2018.
 //  Copyright © 2024 Hlathguth Valkyrie. All rights reserved.
 //
 
@@ -52,9 +52,15 @@ NS_ASSUME_NONNULL_BEGIN
 /// - Parameter image: 图像
 + (nullable UIImage*)repairImageByTraversalWithImage:(UIImage *)image;
 
-/// 自动图像移除背景
-/// - Parameter inputImage: 输入图像
-+ (UIImage *)autoRemoveBackground:(UIImage *)inputImage;
+/// 移除图像局部
+/// @param image 图像
+/// @param maskImage mask图像
++ (UIImage *)removePart:(UIImage *)image maskImage:(UIImage *)maskImage;
+
+/// 生成羽化图像
+/// @param alpha 透明度
+/// @param loc 羽化起点
+- (UIImage *)featheredImageWithAlpha:(CGFloat)alpha startLoc:(CGFloat)loc;
 
 @end
 

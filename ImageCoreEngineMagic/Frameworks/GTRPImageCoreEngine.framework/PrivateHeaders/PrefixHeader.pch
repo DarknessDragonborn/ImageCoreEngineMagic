@@ -12,9 +12,9 @@
 
 
 #ifdef DEBUG  //调试状态,打开Log功能
-#define kLog(fmt, ...) fprintf(stderr,"%s %s Line:%d %s--------\n%s \n", __DATE__, __TIME__, __LINE__, __func__, [[NSString stringWithFormat:fmt, ##__VA_ARGS__] UTF8String])
+#define kGTRPLog(fmt, ...) fprintf(stderr,"%s %s||Line:%d %s===========>\n%s \n", __DATE__, __TIME__, __LINE__, __func__, [[NSString stringWithFormat:fmt, ##__VA_ARGS__] UTF8String])
 #else  //发布状态,关闭Log功能
-#define kLog(fmt, ...)
+#define kGTRPLog(fmt, ...)
 #endif
 
 #endif /* PrefixHeader_pch */

@@ -1,5 +1,5 @@
 PODS:
-  - ImageCoreEngineMagic (0.1.2)
+  - ImageCoreEngineMagic (0.1.5)
 
 DEPENDENCIES:
   - ImageCoreEngineMagic (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ImageCoreEngineMagic: e539a3d73c70578d1ad52f491ffc0363ba56261e
+  ImageCoreEngineMagic: c132002a5f824b3898db1a96d07e7d7cc0e59213
 
 PODFILE CHECKSUM: 456cc8efc636636899ac47cd701e435a356a2256
 

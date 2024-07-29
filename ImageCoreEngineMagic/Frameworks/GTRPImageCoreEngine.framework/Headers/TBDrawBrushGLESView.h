@@ -2,7 +2,7 @@
 //  TBDrawBrushGLESView.h
 //  ESImageCoreEngine
 //
-//  Created by Hlathguth Valkyrie on 6/5/2024.
+//  Created by Hlathguth Valkyrie on 14/8/2022.
 //  Copyright © 2024 Hlathguth Valkyrie. All rights reserved.
 //
 
